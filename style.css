@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+  }
+  
+  h1 {
+	color: #333;
+  }
+  
+  label {
+	display: block;
+	margin-top: 20px;
+  }
+  
+  input, button {
+	margin-top: 10px;
+  }
+  
+  #result {
+	margin-top: 20px;
+	font-weight: bold;
+  }
